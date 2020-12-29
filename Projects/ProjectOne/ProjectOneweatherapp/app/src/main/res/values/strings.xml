@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_with_city">Search with city</string>
+    <string name="search_button">Search Button</string>
+    <string name="next_ten_days_info">Next Ten Days Info</string>
+    <string name="city">city</string>
+    <string name="toastMessageCurrentWeatherData">Loading current weather data for</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="please_check_internet">Please check your internet</string>
+    <string name="sorry_message">Sorry, please search for a different city</string>
+    <string name="population">Population</string>
+</resources>

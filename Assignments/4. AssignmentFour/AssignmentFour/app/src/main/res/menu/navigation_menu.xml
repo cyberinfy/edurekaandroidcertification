@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_flower_pictures"
+        android:icon="@drawable/ic_flower_vintage_24"
+        android:title="@string/flower_pictures" />
+    <item
+        android:id="@+id/menu_nature_pictures"
+        android:icon="@drawable/ic_nature_24"
+        android:title="@string/nature_pictures" />
+</menu>

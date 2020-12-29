@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment Eight</string>
+    <string name="title_activity_more_detail">More Detail Activity</string>
+    <string name="dummy_button">Back</string>
+</resources>

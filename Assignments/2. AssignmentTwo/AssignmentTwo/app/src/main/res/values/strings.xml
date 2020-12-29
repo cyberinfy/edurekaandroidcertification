@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment Two</string>
+    <string name="radio_button_red_name">Red</string>
+    <string name="radio_button_green_name">Green</string>
+    <string name="radio_button_blue_name">Blue</string>
+    <string name="button_google_name">Google</string>
+    <string name="button_yahoo_name">Yahoo</string>
+    <string name="google_url">http://www.google.com</string>
+    <string name="yahoo_url">http://www.yahoo.com</string>
+</resources>

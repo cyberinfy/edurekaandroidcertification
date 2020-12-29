@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment Seven</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_map_key">AIzaSyBEEB7Rq_guYtbNuPHe7Cu6f9eOWGSP_yk</string>
+</resources>

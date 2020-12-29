@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment One</string>
+    <string name="on_create">onCreate invoked</string>
+    <string name="on_start">onStart invoked</string>
+    <string name="on_resume">onResume invoked</string>
+    <string name="on_pause">onPause invoked</string>
+    <string name="on_stop">onStop invoked</string>
+    <string name="on_restart">onRestart invoked</string>
+    <string name="on_destroy">onDestroy invoked</string>
+    <string name="default_message">Enter your credentials</string>
+    <string name="successful_message">Successfully logged in</string>
+    <string name="username_invalid_message">Error: Invalid Username</string>
+    <string name="password_invalid_message">Error: Invalid Password</string>
+    <string name="username">edureka</string>
+    <string name="password">edureka123\"</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment Nine</string>
+    <string name="login_message">Welcome</string>
+
+    <string name="facebook_app_id">783891265532669</string>
+    <string name="fb_login_protocol_scheme">fb783891265532669</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="android_button">"Android"</string>
+    <string name="ios_button">"iOS"</string>
+    <string name="windows_button">"Windows"</string>
+    <string name="android">"Android wird entwickelt von Google"</string>
+    <string name="ios">"iOS wird entwickelt von Apple"</string>
+    <string name="windows">"Windows wird entwickelt von Microsoft"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AssignmentFour" format="float">
+        <attr name="text" format="string"></attr>
+        <attr name="circleColor" format="color"></attr>
+        <attr name="fontColor" format="color"></attr>
+        <attr name="fontSize" format="dimension"></attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment Three</string>
+    <string name="default_message"> ~ Welcome ~ </string>
+    <string name="channel_name">AssignmentThreeChannel</string>
+    <string name="channel_description">App notifies status of user login through this channel</string>
+    <string name="notification_successful_message"> login successful 😀 </string>
+    <string name="notification_failed_message"> login failed 😟 </string>
+    <string name="username">edureka</string>
+    <string name="password">edureka123</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="grey">Grey</string>
+    <string name="select_message">Click a color</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
